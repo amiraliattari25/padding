@@ -1,0 +1,46 @@
+.main>div{
+    border: 2px solid green;
+
+   max-width: 30%; 
+   min-width: 20%;
+   min-width: 200px;
+   max-height: 400px;
+   padding: 20px;
+   margin: auto;
+   display: inline-block;
+   margin-top: 20px;
+
+    
+}
+img{
+    width: 100%;
+}
+div:hover{
+    border: 3px dotted red;
+}
+li{
+    display: inline-block;
+    padding-left: 20px;
+    font-size: 25px;
+    color: rgb(78, 13, 13);
+    
+
+}
+header{
+    margin : 10px auto;
+    border: 2px solid  red;
+    width: 500px;
+}
+li:hover{
+    color: green;
+    font-size: xx-large;
+    cursor: pointer;
+}
+h1{
+    background-color: rgb(158, 83, 83);
+    color: aliceblue;
+    text-align: center;
+    font-size: xx-large;
+    font-size: 50px;
+
+}
